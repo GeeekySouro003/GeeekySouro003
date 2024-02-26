@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysouro003&label=Profile%20views&color=0e75b6&style=flat" alt="geekysouro003" /> </p>
 
-<p align="left"> <a href="https://github.com/GeekySouro003/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GeekySouro003" alt="GeekySouro003" /></a> </p>
+<p align="left"> <a href="https://github.com/GeeekySouro003/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GeekySouro003" alt="GeekySouro003" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **Flask, Solidity**
