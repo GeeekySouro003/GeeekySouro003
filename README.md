@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeekysouro003&label=Profile%20views&color=087fc9&style=flat" alt="GeeekySouro003" /> </p>
 
-https://github-profile-trophy.vercel.app/?username=GeeekySouro003=ryo-ma&theme=monokai
+https://github-profile-trophy.vercel.app/?username=GeeekySouro003&theme=monokai
+
 
 - 🔭 I’m currently working on **MERN Stack**
 
