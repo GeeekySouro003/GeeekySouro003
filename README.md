@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Flask,Solidity**
+- 🌱 I’m currently learning **Typescript,Rust**
 
 - 👯 I’m looking to collaborate on **Open Source and Web3 Projects**
 
