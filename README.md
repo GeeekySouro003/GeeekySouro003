@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Geeekysouro003&label=Profile%20views&color=087fc9&style=flat" alt="GeeekySouro003" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?Geeekysouro003=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?Geeekysouro003=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **MERN Stack**
 
