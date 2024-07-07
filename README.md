@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souradip Dasgupta</h1>
 <h3 align="center">From Pixels to Performance: A Full Stack Developer Journey from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Geeekysouro003&label=Profile%20views&color=087fc9&style=flat" alt="GeeekySouro003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geeekysouro003&label=Profile%20views&color=087fc9&style=flat" alt="GeeekySouro003" /> </p>
 
 https://github-profile-trophy.vercel.app/?Geeekysouro003=ryo-ma&theme=monokai
 
