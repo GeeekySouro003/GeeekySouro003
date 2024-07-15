@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Javascript,Web3**
 
-- 📫 How to reach me **dgsouro77@gmail.com**
+- 📫 How to reach me **souradip.eth@gmail.com**
 
 - ⚡ Fun fact **More sense of humour coming in...〽️**
 
