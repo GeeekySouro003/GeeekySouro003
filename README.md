@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **Typescript,Rust**
 
 - 👯 I’m looking to collaborate on **Open Source and Web3 Projects**
+  
 
 - 🤝 I’m looking for help with **some upcoming projects**
 
