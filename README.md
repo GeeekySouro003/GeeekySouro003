@@ -1,4 +1,5 @@
-![Banner Image](./banner.gif)
+
+<img align="center" alt="GIF" src="Banner.gif" width="950" height="500"/>
 
 <h1 align="center">Hi 👋, I'm Souradip Dasgupta</h1>
 <h3 align="center">From Pixels to Performance: A Full Stack Developer Journey from India</h3>
